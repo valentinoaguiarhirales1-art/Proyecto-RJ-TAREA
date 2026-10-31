@@ -1,17 +1,17 @@
-# ✨ Proyecto ReactJS · 9 ejercicios
+# *✨ Proyecto ReactJS · 9 ejercicios*
 
 > **¡Hola!** 👋 Bienvenido/a a mi proyecto de prácticas de ReactJS para **Conquer Blocks**.
 > *Nueve ejercicios interactivos, un montón de cosas por aprender.* 💜
 
-<p align="center">
-  <strong>🎨 Interactúa · ⚛️ Aprende React · 🚀 Practica a tu ritmo</strong>
-</p>
+***<p align="center">***
+  ***<strong>🎨 Interactúa · ⚛️ Aprende React · 🚀 Practica a tu ritmo</strong>***
+***</p>***
 
 ---
 
-## 📚 ¿Qué incluye?
+## *📚 ¿Qué incluye?*
 
-Una página de inicio con un índice para abrir cada práctica por separado. Cada ejercicio tiene su propio componente React y una interfaz sencilla, adaptable y lista para probar.
+***Una página de inicio con un índice para abrir cada práctica por separado. Cada ejercicio tiene su propio componente React y una interfaz sencilla, adaptable y lista para probar.***
 
 | # | Práctica | ¿Qué puedes hacer? |
 |:---:|---|---|
@@ -25,7 +25,7 @@ Una página de inicio con un índice para abrir cada práctica por separado. Cad
 | 8 | 💬 **Contador de texto** | Contar palabras y caracteres sin espacios |
 | 9 | ✅ **Lista de tareas** | Completar pendientes y conservarlos en `localStorage` |
 
-## 🗂️ Estructura del repositorio
+## *🗂️ Estructura del repositorio*
 
 La raíz contiene **únicamente estos tres elementos**:
 
@@ -36,7 +36,7 @@ La raíz contiene **únicamente estos tres elementos**:
 └── 📄 README.md                  # Esta guía
 ```
 
-Dentro de la aplicación:
+***Dentro de la aplicación:***
 
 ```text
 📂 conquer-reactjs-practicas
@@ -52,11 +52,11 @@ Dentro de la aplicación:
 └── vite.config.js
 ```
 
-## 🚀 Cómo ejecutar el proyecto
+## *🚀 Cómo ejecutar el proyecto*
 
 **Necesitas:** Node.js 20.19+ o 22.12+, y npm.
 
-Desde la carpeta del proyecto:
+***Desde la carpeta del proyecto:***
 
 ```bash
 cd conquer-reactjs-practicas
@@ -64,24 +64,24 @@ npm ci
 npm run dev
 ```
 
-Abre en el navegador la dirección local que indique la terminal. Para preparar y previsualizar una compilación:
+***Abre en el navegador la dirección local que indique la terminal. Para preparar y previsualizar una compilación:***
 
 ```bash
 npm run build
 npm run preview
 ```
 
-## 🧰 Tecnologías
+## *🧰 Tecnologías*
 
 - **React** y **React DOM**
 - **Vite**
 - **CSS adaptable** a pantallas móviles y de escritorio
 - **LocalStorage** para guardar las tareas en el navegador
 
-## 📄 Licencia
+## *📄 Licencia*
 
-Este proyecto está bajo la **licencia MIT**. Consulta [`LICENSE`](./LICENSE) para leer sus términos. 💫
+***Este proyecto está bajo la **licencia MIT**. Consulta [`LICENSE`](./LICENSE) para leer sus términos. 💫***
 
 ---
 
-<p align="center"><em>Hecho con 💜, React y muchas ganas de aprender.</em> ✨</p>
+***<p align="center"><em>Hecho con 💜, React y muchas ganas de aprender.</em> ✨</p>***
